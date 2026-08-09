@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/49b555b5-13da-4a41-860a-47e07cd1b7ac" />
+
 <img width="1366" height="768" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/3423d29e-3157-4af2-a217-3bf2ac96d534" />
 
 # flashcard
